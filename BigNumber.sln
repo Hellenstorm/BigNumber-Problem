@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigNumber", "BigNumber\BigNumber.vcxproj", "{D3AFB3EA-C7A5-46FF-8D91-C4113EC6CAD5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuanSort", "QuanSort\QuanSort.vcxproj", "{5B767DD7-B691-4018-8E5A-27FA8B045C16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "add", "add\add.vcxproj", "{C50B5C04-5F77-4B4C-86C6-32AEE8D3B778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AFB3EA-C7A5-46FF-8D91-C4113EC6CAD5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3AFB3EA-C7A5-46FF-8D91-C4113EC6CAD5}.Debug|Win32.Build.0 = Debug|Win32
+		{D3AFB3EA-C7A5-46FF-8D91-C4113EC6CAD5}.Release|Win32.ActiveCfg = Release|Win32
+		{D3AFB3EA-C7A5-46FF-8D91-C4113EC6CAD5}.Release|Win32.Build.0 = Release|Win32
+		{5B767DD7-B691-4018-8E5A-27FA8B045C16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B767DD7-B691-4018-8E5A-27FA8B045C16}.Debug|Win32.Build.0 = Debug|Win32
+		{5B767DD7-B691-4018-8E5A-27FA8B045C16}.Release|Win32.ActiveCfg = Release|Win32
+		{5B767DD7-B691-4018-8E5A-27FA8B045C16}.Release|Win32.Build.0 = Release|Win32
+		{C50B5C04-5F77-4B4C-86C6-32AEE8D3B778}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C50B5C04-5F77-4B4C-86C6-32AEE8D3B778}.Debug|Win32.Build.0 = Debug|Win32
+		{C50B5C04-5F77-4B4C-86C6-32AEE8D3B778}.Release|Win32.ActiveCfg = Release|Win32
+		{C50B5C04-5F77-4B4C-86C6-32AEE8D3B778}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

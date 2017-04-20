@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/4/20 18:29:46。
+     1>项目“E:\C++\BroadView\Chapter_3\BigNumber\add\add.vcxproj”在节点 4 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\systemc\src /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /vmg "源.cpp"
+         源.cpp
+     1>e:\c++\broadview\chapter_3\bignumber\add\源.cpp(115): warning C4172: 返回局部变量或临时变量的地址
+     1>e:\c++\broadview\chapter_3\bignumber\add\源.cpp(168): warning C4172: 返回局部变量或临时变量的地址
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\BroadView\Chapter_3\BigNumber\Debug\add.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\systemc\msvc80\SystemC\Debug SystemC.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C++\BroadView\Chapter_3\BigNumber\Debug\add.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\BroadView\Chapter_3\BigNumber\Debug\add.lib" /MACHINE:X86 "Debug\源.obj"
+         add.vcxproj -> E:\C++\BroadView\Chapter_3\BigNumber\Debug\add.exe
+     1>已完成生成项目“E:\C++\BroadView\Chapter_3\BigNumber\add\add.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10
